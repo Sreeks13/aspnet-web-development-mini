@@ -1,4 +1,4 @@
-namespace ChessClub.Models;
+namespace aspnet_web_development_mini.Models;
 
 public class ErrorViewModel
 {

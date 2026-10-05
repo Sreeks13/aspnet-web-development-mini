@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using ChessClub.Models;
+using aspnet_web_development_mini.Models;
 
-namespace ChessClub.Controllers;
+namespace aspnet_web_development_mini.Controllers;
 
 public class HomeController : Controller
 {
